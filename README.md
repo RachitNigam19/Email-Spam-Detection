@@ -1,3 +1,3 @@
 # Email-Spam-Detection
 Email Spam Detection Using Machine Learning
-This will 
+This will clasify the emails into two categories 
